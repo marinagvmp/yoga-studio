@@ -1,0 +1,83 @@
+/* Global resets */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  border: none;
+  outline: none;
+}
+
+/* Navbar styles */
+.custom-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.custom-logo {
+  height: 40px;
+  width: auto;
+}
+
+.custom-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.nav-item {
+  font-weight: 500;
+  color: black;
+}
+
+.nav-item.active {
+  color: #1e3a8a;
+  font-weight: bold;
+}
+
+.sign-in-btn {
+  background-color: #335b73;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+
+.social-footer {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+  background-color: #f4f4f4;
+  margin-top: 4rem;
+}
+
+.social-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: transform 0.2s ease;
+}
+
+.social-button:hover {
+  transform: scale(1.2);
+}
+
+.social-icon {
+  width: 32px;
+  height: 32px;
+}

@@ -1,0 +1,26 @@
+.booking-container {
+    padding: 2rem;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .booking-buttons {
+    margin-top: 1.5rem;
+  }
+  
+  .booking-buttons button {
+    margin: 0 1rem;
+    padding: 0.7rem 1.2rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    background-color: #3c82f6;
+    color: white;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .booking-buttons button:hover {
+    background-color: #285fc0;
+  }
+  
