@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/yoga-studio/static/css/main.7f1585f3.css",
+    "main.js": "/yoga-studio/static/js/main.5d86ed6e.js",
+    "static/js/453.80980a99.chunk.js": "/yoga-studio/static/js/453.80980a99.chunk.js",
+    "static/media/Yin.png": "/yoga-studio/static/media/Yin.22b9edbe78ab5f427799.png",
+    "static/media/PowerFlow.png": "/yoga-studio/static/media/PowerFlow.c552e6edf51784f3495a.png",
+    "static/media/Chair.png": "/yoga-studio/static/media/Chair.55a5fba3d97b02f55b1b.png",
+    "static/media/YogaHome.png": "/yoga-studio/static/media/YogaHome.58e2b5f91c7e2e0d7102.png",
+    "index.html": "/yoga-studio/index.html",
+    "main.7f1585f3.css.map": "/yoga-studio/static/css/main.7f1585f3.css.map",
+    "main.5d86ed6e.js.map": "/yoga-studio/static/js/main.5d86ed6e.js.map",
+    "453.80980a99.chunk.js.map": "/yoga-studio/static/js/453.80980a99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f1585f3.css",
+    "static/js/main.5d86ed6e.js"
+  ]
+}
